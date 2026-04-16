@@ -52,6 +52,7 @@ GET /dashboard
 - No database (data resets on restart)
 - No frontend UI
 - No authentication
+- Data resets when server restarts (in-memory storage)
 
 ---
 
